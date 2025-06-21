@@ -1,2 +1,2 @@
 # sample-wallet
-Sample Wallet Project. Using Node.js, Express and MongoDB
+Simple digital wallet powered by Node.js, Express, and MongoDB
